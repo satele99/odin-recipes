@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+    color: white;
+} 
+
+body {
+    background-color: rgb(41, 41, 44, 1);
+}
+
+#ing-list li {
+    list-style: none; 
+    margin-right: 45px;
+} 
+
+.text-bold {
+    font-weight: 800;
+} 
+
+img {
+    height: auto;
+    width: 300px;
+}

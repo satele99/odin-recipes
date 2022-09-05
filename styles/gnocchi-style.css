@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+    color: white;
+} 
+
+body {
+    background-color: rgb(41, 41, 44, 1);
+}
+
+li, a {
+    list-style: none;
+    text-decoration: none; 
+    margin-right: 45px;
+} 
+
+img {
+    height: auto;
+    width: 300px;
+}

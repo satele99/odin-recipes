@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    color: white;
+} 
+
+body {
+    background-color: rgb(41, 41, 44, 1);
+}
+
+ul, li, a {
+    text-decoration: none; 
+    list-style: none; 
+    display: inline-block;
+    justify-content: space-between; 
+    margin: 10px;
+} 
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline white;
+} 
